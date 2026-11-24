@@ -16,7 +16,6 @@ UW-Madison/
   DFPBenchmarksv1.0.gz                  the suite as distributed (tar.gz)
   DFPBenchmarksv1.0/                    the suite, unpacked
     banking/  euro_conversion/  risk_management/  tax_preparation/  telco/
-    decNumberLib/  IntelRDFPMathLib10U1/  nativeGccLib/
     README                              the suite's own README
   BenchmarksAndPerfAnalysisDFP-2007.pdf
   Performance_analysis_of_decimal_floating-point_lib-2009.pdf
@@ -45,10 +44,7 @@ version 3, as their headers state (for example `banking/arith.def` and
 `tax_preparation/operator.h`); the tax preparation benchmark derives from
 OpenTaxSolver, also GPL. The full license text is in [`COPYING`](COPYING).
 
-Third-party parts bundled with the suite keep their own terms, given in
-their files: `IntelRDFPMathLib10U1/` (Intel Decimal Floating-Point Math
-Library) and `decNumberLib/` (IBM decNumber). The two PDFs are the papers
-above, under their publisher's copyright.
+The two PDFs are the papers above, under their publisher's copyright.
 
 ## Line endings
 
